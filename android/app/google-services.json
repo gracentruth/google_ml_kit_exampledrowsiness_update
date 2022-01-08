@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774967913006",
+    "project_id": "turning-point-1",
+    "storage_bucket": "turning-point-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774967913006:android:99c3731fc1f9bf62fd0dbf",
+        "android_client_info": {
+          "package_name": "com.b.biradar.google_ml_kit_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774967913006-v5hmcchvdgrrdv31f4o3kdipieqn3mv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b.biradar.google_ml_kit_example",
+            "certificate_hash": "7e524105660ae84b00c31c64bfbc5dbb91d7dc12"
+          }
+        },
+        {
+          "client_id": "774967913006-1kc8b8h24bprh3god9iankis32ssqmqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlin9CFzSEbzkIQMyqic_qyFrA8sYFIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774967913006-1kc8b8h24bprh3god9iankis32ssqmqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
